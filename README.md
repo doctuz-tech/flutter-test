@@ -23,14 +23,19 @@ Tela adicionar tarefa com campos título, descrição e data.
 
 header com botão para sair (logout).
 
-## Constraints:
+## Obs:
 
  - Os dados podem ser salvas localmente,
  - Bom uso de padrões de projeto e separação de camadas,
- - Instruções no README de como rodar o projeto.
 
 ## Plus:
 
  - Testes unitários,
  - Salvar e consumir os dados de algum bd.
+ 
+ ## Instruções: 
+ 
+  - Instruções no README de como rodar o projeto.
+  - Subir o projeto no seu Github e nos enviar o link.
+  
 
