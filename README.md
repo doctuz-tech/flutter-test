@@ -31,7 +31,7 @@ header com botão para sair (logout).
 ## Plus:
 
  - Testes unitários,
- - Salvar e consumir os dados de algum bd.
+ - Consumir API externa do site: https://jsonplaceholder.typicode.com/todos - Listar os "TODOS" do user 1
  
  ## Instruções: 
  
